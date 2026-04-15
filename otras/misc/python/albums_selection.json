@@ -1,0 +1,495 @@
+[
+    {
+        "name": "aladdin sane",
+        "artists": [
+            "david bowie"
+        ],
+        "path": "aladdin_sane-david_bowie.JPG"
+    },
+    {
+        "name": "am",
+        "artists": [
+            "arctic monkeys"
+        ],
+        "path": "am-arctic_monkeys.JPG"
+    },
+    {
+        "name": "another one",
+        "artists": [
+            "mac demarco"
+        ],
+        "path": "another_one-mac_demarco.WEBP"
+    },
+    {
+        "name": "around the fur",
+        "artists": [
+            "deftones"
+        ],
+        "path": "around_the_fur-deftones.JPG"
+    },
+    {
+        "name": "black market music",
+        "artists": [
+            "placebo"
+        ],
+        "path": "black_market_music-placebo.JPG"
+    },
+    {
+        "name": "brotherhood",
+        "artists": [
+            "new order"
+        ],
+        "path": "brotherhood-new_order.JPG"
+    },
+    {
+        "name": "call for help",
+        "artists": [
+            "pearly drops"
+        ],
+        "path": "call_for_help-pearly_drops.JPG"
+    },
+    {
+        "name": "canta en espanol con los panchos",
+        "artists": [
+            "eydie gorme",
+            "los panchos"
+        ],
+        "path": "canta_en_espanol_con_los_panchos-eydie_gorme-los_panchos.JPG"
+    },
+    {
+        "name": "charm",
+        "artists": [
+            "clairo"
+        ],
+        "path": "charm-clairo.JPG"
+    },
+    {
+        "name": "chase to the edge",
+        "artists": [
+            "yes"
+        ],
+        "path": "chase_to_the_edge-yes.JPG"
+    },
+    {
+        "name": "delusion",
+        "artists": [
+            "bratty"
+        ],
+        "path": "delusion-bratty.JPG"
+    },
+    {
+        "name": "diamond eyes",
+        "artists": [
+            "deftones"
+        ],
+        "path": "diamond_eyes-deftones.JPG"
+    },
+    {
+        "name": "did you know theres a tunnel under ocean blvd",
+        "artists": [
+            "lana del rey"
+        ],
+        "path": "did_you_know_theres_a_tunnel_under_ocean_blvd-lana_del_rey.WEBP"
+    },
+    {
+        "name": "dynamo",
+        "artists": [
+            "soda stereo"
+        ],
+        "path": "dynamo-soda_stereo.JPG"
+    },
+    {
+        "name": "el nervio del volcan",
+        "artists": [
+            "caifanes"
+        ],
+        "path": "el_nervio_del_volcan-caifanes.JPG"
+    },
+    {
+        "name": "emily montes",
+        "artists": [
+            "emily montes"
+        ],
+        "path": "emily_montes-emily_montes.JPG"
+    },
+    {
+        "name": "equus asinus",
+        "artists": [
+            "men i trust"
+        ],
+        "path": "equus_asinus-men_i_trust.JPG"
+    },
+    {
+        "name": "flutter",
+        "artists": [
+            "julie"
+        ],
+        "path": "flutter-julie.JPG"
+    },
+    {
+        "name": "forever live sessions",
+        "artists": [
+            "men i trust"
+        ],
+        "path": "forever_live_sessions-men_i_trust.JPG"
+    },
+    {
+        "name": "four calendar cafe",
+        "artists": [
+            "cocteau twins"
+        ],
+        "path": "four_calendar_cafe-cocteau_twins.JPG"
+    },
+    {
+        "name": "frente a Frente",
+        "artists": [
+            "alejandra",
+            "guzman",
+            "gloria trevi"
+        ],
+        "path": "frente_a_Frente-alejandra-guzman-gloria_trevi.JPG"
+    },
+    {
+        "name": "greatest hits",
+        "artists": [
+            "queen"
+        ],
+        "path": "greatest_hits-queen.JPG"
+    },
+    {
+        "name": "greatest hits",
+        "artists": [
+            "the cure"
+        ],
+        "path": "greatest_hits-the_cure.JPG"
+    },
+    {
+        "name": "hasta la raiz",
+        "artists": [
+            "natalia lafourcade"
+        ],
+        "path": "hasta_la_raiz-natalia_lafourcade.JPG"
+    },
+    {
+        "name": "hatful of hollow",
+        "artists": [
+            "the smiths"
+        ],
+        "path": "hatful_of_hollow-the_smiths.JPG"
+    },
+    {
+        "name": "her abiding memory",
+        "artists": [
+            "pitcher56"
+        ],
+        "path": "her_abiding_memory-pitcher56.JPG"
+    },
+    {
+        "name": "hunky dory",
+        "artists": [
+            "david bowie"
+        ],
+        "path": "hunky_dory-david_bowie.JPG"
+    },
+    {
+        "name": "in utero",
+        "artists": [
+            "nirvana"
+        ],
+        "path": "in_utero-nirvana.JPG"
+    },
+    {
+        "name": "isolation",
+        "artists": [
+            "kali uchis"
+        ],
+        "path": "isolation-kali_uchis.JPG"
+    },
+    {
+        "name": "jinx",
+        "artists": [
+            "crumb"
+        ],
+        "path": "jinx-crumb.JPG"
+    },
+    {
+        "name": "just for a day",
+        "artists": [
+            "slowdive"
+        ],
+        "path": "just_for_a_day-slowdive.JPG"
+    },
+    {
+        "name": "kid a",
+        "artists": [
+            "radiohead"
+        ],
+        "path": "kid_a-radiohead.JPG"
+    },
+    {
+        "name": "kitty craft",
+        "artists": [
+            "beats and breaks from the flower path"
+        ],
+        "path": "kitty_craft-beats_and_breaks_from_the_flower_path.WEBP"
+    },
+    {
+        "name": "klute soundtrack",
+        "artists": [
+            "michael small"
+        ],
+        "path": "klute_soundtrack-michael_small.JPG"
+    },
+    {
+        "name": "leda",
+        "artists": [
+            "cisne elocuente"
+        ],
+        "path": "leda-cisne_elocuente.JPG"
+    },
+    {
+        "name": "lonely is an eyesore",
+        "artists": [
+            "cocteau twins"
+        ],
+        "path": "lonely_is_an_eyesore-cocteau_twins.JPG"
+    },
+    {
+        "name": "meds",
+        "artists": [
+            "placebo"
+        ],
+        "path": "meds-placebo.JPG"
+    },
+    {
+        "name": "meet triste janero",
+        "artists": [
+            "triste janero"
+        ],
+        "path": "meet_triste_janero-triste_janero.JPG"
+    },
+    {
+        "name": "mon laferte (vol. 1)",
+        "artists": [
+            "mon laferte"
+        ],
+        "path": "mon_laferte_(vol._1)-mon_laferte.JPG"
+    },
+    {
+        "name": "moveys",
+        "artists": [
+            "slow pulp"
+        ],
+        "path": "moveys-slow_pulp.JPG"
+    },
+    {
+        "name": "nier automata original soundtrack",
+        "artists": [
+            "square enix music"
+        ],
+        "path": "nier_automata_original_soundtrack-square_enix_music.JPG"
+    },
+    {
+        "name": "no time to die",
+        "artists": [
+            "billie eilish"
+        ],
+        "path": "no_time_to_die-billie_eilish.JPG"
+    },
+    {
+        "name": "nothing happens",
+        "artists": [
+            "wallows"
+        ],
+        "path": "nothing_happens-wallows.JPG"
+    },
+    {
+        "name": "ohm",
+        "artists": [
+            "deftones"
+        ],
+        "path": "ohm-deftones.JPG"
+    },
+    {
+        "name": "only everything",
+        "artists": [
+            "juliana hatfield"
+        ],
+        "path": "only_everything-juliana_hatfield.JPG"
+    },
+    {
+        "name": "painful",
+        "artists": [
+            "yo la tengo"
+        ],
+        "path": "painful-yo_la_tengo.JPG"
+    },
+    {
+        "name": "peperina",
+        "artists": [
+            "seru giran"
+        ],
+        "path": "peperina-seru_giran.JPG"
+    },
+    {
+        "name": "pistol",
+        "artists": [
+            "cigarettes after sex"
+        ],
+        "path": "pistol-cigarettes_after_sex.JPG"
+    },
+    {
+        "name": "quiet pleasures",
+        "artists": [
+            "glixen"
+        ],
+        "path": "quiet_pleasures-glixen.JPG"
+    },
+    {
+        "name": "return",
+        "artists": [
+            "blue smiley"
+        ],
+        "path": "return-blue_smiley.JPG"
+    },
+    {
+        "name": "revolver",
+        "artists": [
+            "the beatles"
+        ],
+        "path": "revolver-the_beatles.JPG"
+    },
+    {
+        "name": "rio salvaje",
+        "artists": [
+            "little jesus"
+        ],
+        "path": "rio_salvaje-little_jesus.JPG"
+    },
+    {
+        "name": "route 20 hit the road",
+        "artists": [
+            "ego wrappin"
+        ],
+        "path": "route_20_hit_the_road-ego_wrappin.JPG"
+    },
+    {
+        "name": "selected ambient works 85 92",
+        "artists": [
+            "aphex twin"
+        ],
+        "path": "selected_ambient_works_85_92-aphex_twin.JPG"
+    },
+    {
+        "name": "shook",
+        "artists": [
+            "vivienne eastwood"
+        ],
+        "path": "shook-vivienne_eastwood.JPG"
+    },
+    {
+        "name": "sling",
+        "artists": [
+            "clairo"
+        ],
+        "path": "sling-clairo.JPG"
+    },
+    {
+        "name": "superclean vol. ii",
+        "artists": [
+            ""
+        ],
+        "path": "superclean_vol._ii-.JPG"
+    },
+    {
+        "name": "tako tsubo",
+        "artists": [
+            "l'imperatrice"
+        ],
+        "path": "tako_tsubo-l'imperatrice.JPG"
+    },
+    {
+        "name": "this old dog",
+        "artists": [
+            "mac de marco"
+        ],
+        "path": "this_old_dog-mac_de_marco.JPG"
+    },
+    {
+        "name": "unknown pleasures",
+        "artists": [
+            "joy division"
+        ],
+        "path": "unknown_pleasures-joy_division.JPG"
+    },
+    {
+        "name": "untourable album",
+        "artists": [
+            "men i trust"
+        ],
+        "path": "untourable_album-men_i_trust.JPG"
+    },
+    {
+        "name": "visions",
+        "artists": [
+            "grimes"
+        ],
+        "path": "visions-grimes.JPG"
+    },
+    {
+        "name": "wave your moonlight hat for the snowfall train",
+        "artists": [
+            "youll never get to heaven"
+        ],
+        "path": "wave_your_moonlight_hat_for_the_snowfall_train-youll_never_get_to_heaven.JPG"
+    },
+    {
+        "name": "without you im nothing",
+        "artists": [
+            "placebo"
+        ],
+        "path": "without_you_im_nothing-placebo.JPG"
+    },
+    {
+        "name": "wlfgrl",
+        "artists": [
+            "machine girl"
+        ],
+        "path": "wlfgrl-machine_girl.JPG"
+    },
+    {
+        "name": "xxl",
+        "artists": [
+            "young posse"
+        ],
+        "path": "xxl-young_posse.JPG"
+    },
+    {
+        "name": "yellow submarine",
+        "artists": [
+            "the beatles"
+        ],
+        "path": "yellow_submarine-the_beatles.JPG"
+    },
+    {
+        "name": "yhlqmdlg",
+        "artists": [
+            "bad bunny"
+        ],
+        "path": "yhlqmdlg-bad_bunny.WEBP"
+    },
+    {
+        "name": "yuki's best",
+        "artists": [
+            "yuki saitou"
+        ],
+        "path": "yuki's_best-yuki_saitou.JPG"
+    },
+    {
+        "name": "ziggy stardust",
+        "artists": [
+            "david bowie"
+        ],
+        "path": "ziggy_stardust-david_bowie.JPG"
+    }
+]

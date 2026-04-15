@@ -1,0 +1,120 @@
+<HTML>  
+    <head>
+        <title>MI SEGUNDA PAGINA WEB</TITLE>
+    </head>
+
+    <style>
+        p {color: #175e76; font-size: 200%;}
+        h2{color:#175e76; font-size: 350%;}
+        h1{color:#175e76; font-size: 350%;}
+    </style>
+
+    <body style = "background-color:#f4f0d5; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+        <table width="100%">
+            
+            <tr>
+                <th>
+                    <header style="background-color:#c1d18b; "> 
+                        <h1 style="color:#175e76; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 350%;">Blog de comidas por Azul Tamara</h1>
+                        <hr/>
+                        <a href="index.html"><img src="INICIO/1.png" width="200px" height="100"></a>
+                        <a href="recetas.html"><img src="INICIO/2.png" width="200px" height="100"></a>
+                        <a href="lugares.html"><img src="INICIO/INICIO.png" width="200px" height="100"></a>
+                        <a href="musica.html"><img src="INICIO/3.png" width="200px" height="100"></a>
+                    </header>
+
+                    <hr/>
+                  <!-- Contador de visitas -->
+<center><a href="https://websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://websmultimedia.com/contador-de-visitas.php?id=24133"></a><br><a href='https://websmultimedia.com/contador-de-visitas-gratis'>Contador de visitas</a><br><a href='http://www.websmultimedia.com/diseno-logotipos'>presupuesto logotipos</a></center>
+<!-- Fin Contador de visitas -->
+                    <hr/>
+                    <img src="INICIO/4.png" height="900px">
+                    <hr/>
+                    <p>Dentro este Blog hablaré de <b>mis gustos personales de comida.</b> Empezando por mis prefencias favoritas de platillos convencionales. Soy una persona que es muy fanática de lo salado. Me encantan las papas fritas, sopas saladas como el Ramen o la Carbonara. También cosas que lleven mucho sasón como los chilaquiles, un buen sushi y de lo mas dulce que soporto y me encanta, es el yogurt con granola.</p>
+                    <hr/>
+                    <h1><u>Mis comidas Favoritas</u></h1>
+                    <img src="INICIO/5.png" width="450px" height="250">
+                    <img src="INICIO/6.png" width="450px" height="250">
+                    <img src="INICIO/7.png" width="450px" height="250">
+                    <img src="INICIO/8.png" width="450px" height="250">
+                    <img src="INICIO/9.png" width="450px" height="250">
+                    <img src="INICIO/10.png" width="450px" height="250">
+                    <hr/>
+                    <hr/>
+                    <p>La vida sería muy diferente si no pudieramos disfrutar la comida. <b>Vivir es comer,</b> siempre he dicho. Aún así, siempre habrá platillos no tan favoritos para todos. Mis platillos no tan favoritos para mí, es la mayoría de todas las cosas dulces que saben excesivamente dulces. Golosinas, pasteles de manteca, donas, todo lo muy dulce, no lo soporto. También los sabores sin chistes muy americanizados como un emparedado de queso con pan blanco o un Mcdonalds no lo soporto.<b>Aún así, entiendo que para todo hay preferencias y no juzgaría a alguien por sus gustos.</b></p>
+                    <hr/>
+                    <h1><u>Mis comidas no favoritas</u></h1>
+                    <img src="INICIO/11.png" width="400px" height="200">
+                    <img src="INICIO/12.png" width="400px" height="200">
+                    <img src="INICIO/13.png" width="400px" height="200">
+                    <img src="INICIO/14.png" width="400px" height="200">
+                    <img src="INICIO/15.png" width="400px" height="200">
+
+                </th>
+            </tr>
+        </table>
+    </body>
+    <!-- Scroll To Top Button HTML -->
+<button id="wm-back-to-top">
+  <div class="btt-background"></div>
+  <div class="icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>Arrow Up</title>
+      <path data-name="layer2" fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M32 10v46" stroke-linejoin="round" stroke-linecap="round"></path>
+      <path data-name="layer1" fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M50 20 L32 4 14 20" stroke-linejoin="round" stroke-linecap="round"></path>
+    </svg>
+  </div>
+  <p class="text">Top</p>
+</button>
+
+<!-- Scroll To Top Button Javascript -->
+<script>
+(function() {
+  let throttlePause;
+
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('#wm-back-to-top')) return;
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    })
+  })
+
+  document.addEventListener('DOMContentLoaded', function(){
+    let btt = document.querySelector('#wm-back-to-top');
+    let body = document.body;
+    body.append(btt);
+    if (btt?.closest('.sqs-block-content')){
+      btt.closest('.sqs-block-content').style.display = 'inline';
+    }
+  });
+
+  const throttle = (callback, time) => {
+    if (throttlePause) return;
+
+    throttlePause = true;
+    setTimeout(() => {
+      callback();
+      throttlePause = false;
+    }, time);
+  };
+
+  const checkPos = () => {
+    let pos = document.documentElement.scrollTop,
+        revealHeight = window.innerHeight * 0.43,
+        bttButton = document.querySelector('#wm-back-to-top');
+    if (pos >= revealHeight) {
+      bttButton.classList.add('show');
+    } else {
+      bttButton.classList.remove('show');
+    }
+  }
+
+  window.addEventListener("scroll", () => {
+    throttle(checkPos, 150);
+  });
+  window.addEventListener('DOMContentLoaded', checkPos)
+}());
+</script>
+</HTML>
