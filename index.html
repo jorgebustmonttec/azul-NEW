@@ -75,6 +75,23 @@
     h1 {
       margin: 0;
     }
+        .card {
+                position: relative;
+                display: inline-block;
+            }
+            .card img {
+                height: 30px;
+            }
+            .card .img-top {
+                display: none;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 99;
+            }
+            .card:hover .img-top {
+                display: inline;
+            }
 
   </style>
 
@@ -161,14 +178,23 @@
           />
         </th>
       </tr>
-
       <tr style="margin: 100px">
         <th>
-          <img
+          <div class="card">
+            <a>
+              <img
             src="assets/img/img_vitae/catalog/hogaza_cacao.png"
+            alt="card-back"
             height="250px"
             margin-bottom="80px"
           />
+           <img
+                                                src="assets/img/img_vitae/panvitae_grphs_webpage/h_hog_cacao.png"
+                                                class="img-top"
+                                                alt="card-front"
+                                            />
+            </a>
+          </div>
         </th>
         <th>
           <img
