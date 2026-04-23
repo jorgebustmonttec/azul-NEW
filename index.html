@@ -80,17 +80,18 @@
                 display: inline-block;
             }
             .card img {
-                height: 30px;
+               position: relative;
+               display: block;
             }
             .card .img-top {
                 display: none;
-                position: absolute;
-                top: 0;
-                left: 0;
-                z-index: 99;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
             }
             .card:hover .img-top {
-                display: inline;
+                display: block;
             }
 
   </style>
@@ -170,6 +171,7 @@
           </p>
         </td>
       </tr>
+
       <tr>
         <th colspan="3" style="padding-top: 80px; padding-bottom: 80px">
           <img
@@ -197,41 +199,91 @@
           </div>
         </th>
         <th>
-          <img
+          <div class="card">
+            <a>
+ <img
             src="assets/img/img_vitae/catalog/sponge_barra.png"
+            alt="card-back"
             height="250px"
             margin-bottom="80px"
           />
+          <img
+                                                src="assets/img/img_vitae/panvitae_grphs_webpage/h_b_sponge.png"
+                                                class="img-top"
+                                                alt="card-front"
+                                            />
+            </a>
+          </div>
         </th>
         <th>
-          <img
-            src="assets/img/img_vitae/catalog/hogaza_integral.png"
-            height="395px"
+          <div class="card">
+            <a>
+<img
+            src="assets/img/img_vitae/catalog/hogaza_integral1.png"
+            alt="card-back"
+            height="230px"
             margin-bottom="80px"
           />
+           <img
+                                                src="assets/img/img_vitae/panvitae_grphs_webpage/h_hogaza_int.png"
+                                                class="img-top"
+                                                alt="card-front"
+                                            />
+            </a>
+          </div>
         </th>
       </tr>
       <tr>
-        <th>
+        <th style="padding-top: 170px; padding-bottom: 150px;">
+ <div class="card">
+            <a>
           <img
-            src="assets/img/img_vitae/catalog/hogaza_curcuma.png"
-            height="345px"
+            src="assets/img/img_vitae/catalog/hogaza_curcuma1.png"
+            alt="card-back"
+            height="245px"
             margin-bottom="80px"
           />
+           <img
+                                                src="assets/img/img_vitae/panvitae_grphs_webpage/h_hog_cur.png"
+                                                class="img-top"
+                                                alt="card-front"
+                                            />
+            </a>
+ </div>
         </th>
-        <th>
-          <img
+        <th style="padding-top: 170px; padding-bottom: 150px;">
+          <div class="card">
+            <a>
+<img
             src="assets/img/img_vitae/catalog/focaccia.png"
+            alt="card-back"
             height="270px"
             margin-bottom="80px"
           />
+           <img
+                                                src="assets/img/img_vitae/panvitae_grphs_webpage/h_focaccia.png"
+                                                class="img-top"
+                                                alt="card-front"
+                                            />
+            </a>
+          </div>
         </th>
-        <th>
-          <img
-            src="assets/img/img_vitae/catalog/barra_inetgral.png"
-            height="380px"
+        <th style="padding-top: 10px;padding-bottom: 150;">
+          <div class="card">
+            <a>
+<img
+            src="assets/img/img_vitae/catalog/barra_inetgral1.png"
+            alt="card-back"
+            height="140px"
             margin-bottom="80px"
           />
+          <img
+                                                src="assets/img/img_vitae/panvitae_grphs_webpage/h_b_integral.png"
+                                                class="img-top"
+                                                alt="card-front"
+                                            />
+            </a>
+          </div>
         </th>
       </tr>
       <tr>
